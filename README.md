@@ -1,3 +1,5 @@
-This is a simple e-commerce shop I coded in Java.
+This is a simple e-commerce shop prototype.
 
-The aim of this project is to improve my coding skills.
+I have written this code in Java on IntelliJ IDEA.
+
+My goal here is to practice and improve my skills by coding.
